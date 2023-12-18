@@ -28,6 +28,10 @@
     <a href="https://github.com/PatrickLarocque/hub"><strong>Explore the docs »</strong></a>
     <br />
     <a href="https://hub.up.railway.app">Try it out.</a>
+    <p>Demo account: <br>
+    Email: demo@hub.com<br>
+    Pasdsword: demo
+    </p>
   </p>
 </div>
 
